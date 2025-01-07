@@ -1,0 +1,12 @@
+All the following steps are carried out in designing the power supply in this project:
+1. Creating schematic symbols ( Creating a chip, resistors, capacitors, inductors, transistors, pads, … )
+2. Drawing a schematic ( Placing components into schematic, connecting pins, … )
+3. Finishing schematic ( About annotations and designators, adding text and descriptions, schematic compilation and check, … )
+4. Schematic Tips & Tricks ( About net names, power names, about pull up/downs … )
+5. Creating footprints ( Creating footprints, using component wizard, about layers in Altium, … )
+6. Stackup and Rules ( Setting up stackup, setting up rules for layout )
+7. Component placement ( How to place components into your PCB, what is important, how to select component in schematic and place it in PCB, … )
+8. Working in Altium ( Explains all the important commands and settings, going through all the common situations that you may need )
+9. Doing PCB layout ( What is important during layout, connecting pins and drawing tracks, working with polygons, … )
+10. Improving and finishing PCB layout ( DRC check, clearing violations, setting up thermal relief, adding text, … )
+11. Generating outputs for PCB manufacturing ( Output to PDF, NC Drill, Gerber files, … )
